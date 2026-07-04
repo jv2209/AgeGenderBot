@@ -18,7 +18,7 @@ An AI-powered application that detects a person's **age** and **gender** in real
 
 ## 📷 Screenshot
 
-![AgeGenderBot](screenshot/age-gender-detector.jpg)
+![AgeGenderBot](screenshots/age-gender-detector.jpg)
 
 ## 📦 Installation
 
